@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Documentation files
+PROJECT-SUMMARY.txt
+PROJECT-SUMMARY.docx
+CODE-MAPPING.md
+
+# Scripts
+generate-docx.js
+
+# macOS
+.DS_Store
