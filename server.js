@@ -11,7 +11,7 @@ const path = require('path');
 const server = http.createServer((req, res) => {
 
   // File to serve
-  let filePath = './index2.html';
+  let filePath = './index.html';
 
   // Read the file
   fs.readFile(filePath, (err, content) => {

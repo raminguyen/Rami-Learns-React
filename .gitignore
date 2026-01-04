@@ -1,13 +1,8 @@
 # Node modules
 node_modules/
 
-# Documentation files
-PROJECT-SUMMARY.txt
-PROJECT-SUMMARY.docx
-CODE-MAPPING.md
-
-# Scripts
-generate-docx.js
+# Project summary folder
+project-summary/
 
 # macOS
 .DS_Store
