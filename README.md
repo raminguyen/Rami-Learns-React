@@ -4,7 +4,7 @@ Welcome to Rami's Visual Lab! I created this repo to share my chart visualizatio
 
 ## Getting Started
 
-1. Open [index.html](index.html) to see my works
+1. Open [index.html]([index.htm](https://raminguyen.github.io/visuallab/)) to see my works
 2. Explore my projects:
    - [Bar Chart](Learn/bar_chart/PageAnalyticsChart.jsx) - Page analytics with gradient styling
 
